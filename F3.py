@@ -1,0 +1,5 @@
+f=open("Python.txt","w")
+f.writelines("hai wel come to python world\n")
+f.writelines("files are used to store data perminantly\n")
+print("New File is created...")
+f.close()
